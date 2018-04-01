@@ -30,8 +30,8 @@
 /**************************/
 // Edit here:
 
-#define MEMORYBOARD_VERSION 3
-#define RAM_NUM_CHIPS         (4) //# of RAMs
+#define MEMORYBOARD_VERSION 4
+#define RAM_NUM_CHIPS         (6) //# of RAMs
 
 //End "Edit here"
 /**************************/
